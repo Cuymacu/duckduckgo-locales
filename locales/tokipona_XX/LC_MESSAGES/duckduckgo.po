@@ -32,7 +32,7 @@ msgid "%s Billion Searches"
 msgstr "mute %s lukin"
 
 msgid "%s blocked by safe search."
-msgstr "%s li ken ala lukin tan e lukin awen."
+msgstr "%s li kama ala tan alasa pona."
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
@@ -50,7 +50,7 @@ msgstr ""
 
 msgctxt "showcase_donations"
 msgid "%s in privacy donations!"
-msgstr "%s mani pana tawa len!"
+msgstr "mani %s tan len!"
 
 msgid "%s km"
 msgstr ""
@@ -79,7 +79,7 @@ msgstr "%s e mi mute."
 
 msgctxt "SERP footer content"
 msgid "%s%s%s Billion Searches"
-msgstr "lukin %s%s%s"
+msgstr "alasa %s%s%s000000000"
 
 #. The placeholder here will be a bold number. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
@@ -106,15 +106,15 @@ msgstr ""
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo!%s"
-msgstr "%so toki lon lipu DuckDuckGo!%s"
+msgstr "%so toki e ilo DuckDuckGo!%s"
 
 msgctxt "frontpage"
 msgid "%sHelp Spread DuckDuckGo%s."
-msgstr "%so toki ale lon lipu DuckDuckGo%s"
+msgstr "%so toki e ilo DuckDuckGo!%s"
 
 msgctxt "frontpage"
 msgid "%sLearn More%s."
-msgstr "%ssona sin%s."
+msgstr "%ssona mute%s."
 
 msgid "%sRight click%s in the search bar"
 msgstr "tawa %slipu ijo mute suli ala%s lon e supa lukin"
@@ -122,7 +122,7 @@ msgstr "tawa %slipu ijo mute suli ala%s lon e supa lukin"
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
 msgid "1 day ago"
-msgstr ""
+msgstr "tenpo suno pini 1"
 
 #. We realise this is the incorrect way to handle plurals. Sorry, we are working on a fix.
 msgctxt "published dates for organic results"
@@ -152,7 +152,7 @@ msgstr ""
 #. In the new DDG website, this token appears as the Tab name for Instant Answers that give general information about a subject. eg. https://duckduckgo.com/?q=Sony
 #. It is not "About DuckDuckGo".
 msgid "About"
-msgstr "o sona e mi mute"
+msgstr "sona pi lipu ni"
 
 #. This is the side bar "About" link
 msgctxt "static_page"
@@ -162,10 +162,10 @@ msgstr "o sona mi"
 #. at least in:
 #. * https://duckduckgo.com/about. Appears in the window title when you open the link
 msgid "About DuckDuckGo"
-msgstr "sona TukeTukeKo"
+msgstr "sona pi ilo DuckDuckGo"
 
 msgid "About Us"
-msgstr "o sona e mi"
+msgstr "sona mi"
 
 #. Ad like 'advertisement'
 msgid "Ad"
@@ -173,7 +173,7 @@ msgstr "lipu esun"
 
 msgctxt "feedback form"
 msgid "Ad is annoying"
-msgstr "lipu esun li jaki"
+msgstr "lipu esun li ike"
 
 msgctxt "feedback form"
 msgid "Ad is inappropriate"
@@ -181,7 +181,7 @@ msgstr "lipu esun li ike mute"
 
 msgctxt "feedback form"
 msgid "Ad is irrelevant"
-msgstr "lipu esun li ike"
+msgstr "lipu esun li ikw"
 
 msgctxt "feedback form"
 msgid "Ad is malware"
@@ -213,10 +213,10 @@ msgstr ""
 
 #. In the top menu under Team Duck -- %s will be browser names, like Firefox.
 msgid "Add to %s"
-msgstr "o wan tawa ijo %s"
+msgstr "pana tawa %s"
 
 msgid "Add to Home Screen"
-msgstr "pali e ona tawa ilo tawa lukin tomo"
+msgstr "pana e ona tawa tomo"
 
 #. In the top menu under Goodies
 msgid "Add-ons"
@@ -270,7 +270,7 @@ msgid "All Regions"
 msgstr "ma ale"
 
 msgid "All Results"
-msgstr "sitelen sona ale"
+msgstr "lipu ale"
 
 #. In the top menu under Settings
 msgid "All Settings"
@@ -278,7 +278,7 @@ msgstr "jo ale pi ken awen "
 
 msgctxt "size"
 msgid "All Sizes"
-msgstr "suli, lili, ale"
+msgstr "suli ale"
 
 msgctxt "image-type"
 msgid "All Types"
@@ -286,11 +286,11 @@ msgstr "sitelen ale"
 
 msgctxt "install-duckduckgo"
 msgid "Almost there!"
-msgstr "sina ni!"
+msgstr "pini li poka!"
 
 msgctxt "homepage onboarding"
 msgid "Already a fan?"
-msgstr "tenpo ni la, sina olin e lipu DuckDuckGo anu seme?"
+msgstr "tenpo ni la, sina olin e ilo DuckDuckGo anu seme?"
 
 #. For rotating carousel on the home page.
 #. "Help Spread DuckDuckGo!" links to /spread page
@@ -316,7 +316,7 @@ msgstr "tenpo ale la, pali e ijo lon lupi DuckDuckGo"
 
 msgctxt "image-type"
 msgid "Animated GIF"
-msgstr "sitelen ”GIF” tawa"
+msgstr "sitelen GIF"
 
 #. Instant Answer tab name
 msgid "Answer"
@@ -382,7 +382,7 @@ msgid "Australia"
 msgstr "ma Oselija"
 
 msgid "Austria"
-msgstr "ma Esalasi"
+msgstr "ma Olija"
 
 #. http://i.imgur.com/DIzKQRl.png
 msgctxt "settings"
@@ -404,16 +404,16 @@ msgstr "tawa weka lon toki nasa li pali wawa e awen lon ilo Wi-Fi."
 
 msgctxt "homepage onboarding"
 msgid "Back to search"
-msgstr "o tawa lukin"
+msgstr "kama lon"
 
 #. http://i.imgur.com/6Eip5h1.png
 msgctxt "settings"
 msgid "Background Color"
-msgstr "kule sitelen monsi"
+msgstr "kule monsi"
 
 #. https://duckduckgo.com/params under "Color Settings"
 msgid "Background:"
-msgstr "lipu pi anpa"
+msgstr "sitelen monsi"
 
 #. https://duckduckgo.com/newbang
 msgid "Bang category"
